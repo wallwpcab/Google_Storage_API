@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "playground-s-11-fe8fc556",
+  "private_key_id": "9ac985b570532e3b540a53d21feffb73fdd43fe6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/M3qxLeImuoG0\neZJja5buPNpURtPXZtpUxqlpt3IRi3pGPDrwdpCjbWujZMP/l0WS1Fo0WPFHReJv\nthMlvGNj+CeDAbBQnTbuetisgouoGiJEV0OJyxiv7mWlPIoZNR+k1CuGCtU0s5Bi\nVB265aF8c2KSJQUq3y5HrSU33PjLsw4LG5XoWvv6V6q2/4yKBAcjJgp8v7JmBGrP\nlVXgT+AwRXjZUHoYx4xY/vKSpzlpgp88BmZXFHoh2uphnAeuRne3D42lvOvwy4ui\nk4peE/x+Mpnr2QmUB9Uzbo6o3bz3nHT1iUOdTBxrBDowwPiDzyKjyYmJNDElmhmx\n0pwmdT/LAgMBAAECggEAE/1qBJqDTEDv7PJQQO8PiBfk9wOyrpC1H0Dn7G1pUnaZ\nJuexfSYq6BM5ZOCqRzobDtypvlMAOCSRJdR3kFiaXD97w2F1UXBREmzV429V8jzN\nPAToQutGHlACi4cr+bJep757pcIog/U0EWZcTLJ+XYMOGVvKfFl6FAoBBqP71Qap\nxCWrZKR0EJec3JBsz60oID4onV4/BNkwq0GAf3CZkMozsZl+t2QezbXQadDMyyZo\n7I3d+6E5lWVghGDASWBZWPYcBUaiw91p7k4bSL9oD7iAcTUsFUu3WS0k2JDImPAq\nsamh9IHYit6EETxRpCSEGJ0O5z7VFNc4JF7QO2aNRQKBgQDxg+nyvJ+tIuWAf410\nFM5C2rgIJYKMf+5zyEerUo4cIOlJlE6wR8mSPLurxWFhSbv4aNRPE8VayZSTOMEW\ntioik/8IEjTt03FanEKCR2jCGOxQBE8xke1CZc8z73Yam/8EcjJ+0xnfCYhi4KGy\nnnYKgE/GpqD4Jx4Kdwn92+xHxwKBgQDKqxH/C6F6B9kuPSbCWkxFvZ5HwKyUOEM0\nKuwCrlh4+nof+IzuqoJDZYaa3+I7fBWVOPQP2LznSmoy88dB9z8L06vcvyocuHYX\nDlK3PfeCoxNbmzjE7gRBrmmuw0hEy2MEx3NaSJGvoGZN2QpZOd/QTgaF4TvTiV+y\nKcEd/MRv3QKBgB0M2/gZni9KMkbZkN80nXbHLjm0oVZbEQiWP6Co5nUVtFnoX+qu\nR92yNnS74jG8l8KSgW8dlrCL7LYkrn0X3kuYd6W14u30b/8RKqLXCg/Gxa3+RrRU\ntDA3ZMv/crpSp0MWpWJB7Cu6zs/t6yU8EEDFHFNtuZD/y4pAtU/2wx4DAoGBAK/U\nPybA1nVivb9p+mh/otCWs+2YcaGeNl/aJSwmSkebN7zpDIw7jgwe1usi9cmZ27e8\n07Gz3h/j5cMS0HqgoSgHmoFHsKd+OaXDHWww7L1/8dl2D4h632KEiNfAQMC+m8eX\nqrJXZ12xkVBUzq+ekFjOeMZKJHdgJZASvaLgmyRZAoGBAMkbg5k1o0Ii/UAFwAu4\n9Y0NZJVJ/3LXncq0jKtsb67sgxSSDhKii41l3Sc/35J5wkwmQBopoFaOM00P14Um\n/QhXT526ktZD3p1CWSLKDjztKFEg5MIZtFA17qkX8YAniBqTR31hXXCERq9dQW6z\nOY2xUOOBcAA9j+dR5Wlr/XZ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "wali-304@playground-s-11-fe8fc556.iam.gserviceaccount.com",
+  "client_id": "106905222354958765562",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wali-304%40playground-s-11-fe8fc556.iam.gserviceaccount.com"
+}
