@@ -5,28 +5,25 @@
 ```bash
 git clone https://github.com/wallwpcab/Task_1_tests/
 ```
-2. Packages install via this command.       
+2.Install dependencies using npm init -y
+
+3. Packages install via this command.       
 ```bash
 npm install
 ```
-3. Create a .env file to the application root and copy all fields from the .env.example file.       
-    * Add your MongoDB dev database URI to the.env file as DB_URI
-    * Add MongoDB test database URI as TEST_DB_URI
-    * Use ENVIRONMENT as TEST before running the test case.
-    * Use ENVIRONMENT as DEV before running the application. 
+3. Create a .env file to the application root and copy all fields from the .env.example file.      
+    * Set port writing (set PORT = 8080)
 
-4. Test the application.
-```bash
-npm test
-```
 
-5. Run the application in dev mode.
+Google Cloud Storage configuration file:
+
+![image](https://user-images.githubusercontent.com/16519049/236181294-4276a9bf-041a-4be2-b32d-9a50608d8446.png)
+
+
+
+4. Run the application.
 ```bash
 npm run dev
 ```
-6. Run the application in production mode.
-```bash
-npm start
-```
-7. Browse Postman collection API Documentation [https://documenter.getpostman.com/view/5909130/UzR1M3qm] with your browser to see the result.
-    
+
+
